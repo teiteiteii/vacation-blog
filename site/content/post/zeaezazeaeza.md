@@ -5,13 +5,10 @@ tags = []
 title = "zeaezazeaeza"
 
 +++
-
-
 mmmmmmm
 
 <img src="/images/thumbs/06.jpg" alt="" class=" forestry--none forestry--right forestry--none forestry--left forestry--none" style="float: none;">
 
 gteergregrerge
 
-![](/uploads/2017/08/16/8qr9KmY.png)
-
+![](/imgaes/2017/08/16/8qr9KmY.png)
