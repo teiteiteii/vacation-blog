@@ -17,5 +17,5 @@ gteergregrerge
 
 yhjyuuyj
 
-![](/uploads/2017/08/16/20170127_164703.jpg)
+![](/images/2017/08/16/20170127_170021-min.png)
 
