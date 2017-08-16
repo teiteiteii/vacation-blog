@@ -43,7 +43,12 @@ name = "Name"
 submit = "Send message"
 [params.portfolio]
 hide = false
-title = "Recent Work"
+title = "Our latest pictures"
+[[params.portfolio.gallery]]
+description = ""
+image = ""
+thumb = ""
+title = ""
 [[params.portfolio.gallery]]
 description = "Lorem ipsum dolor sit amet."
 image = "fulls/01.jpg"
