@@ -11,4 +11,4 @@ mmmmmmm
 
 gteergregrerge
 
-![](/imgaes/2017/08/16/8qr9KmY.png)
+![](/imgages/2017/08/16/8qr9KmY.png)
