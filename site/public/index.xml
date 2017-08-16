@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata</title>
+    <link>/</link>
+    <description>Recent content on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Aug 2017 11:44:47 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>fifth</title>
+      <link>/post/fifth/</link>
+      <pubDate>Wed, 16 Aug 2017 11:44:47 +0200</pubDate>
+      
+      <guid>/post/fifth/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>fourth</title>
+      <link>/post/fourth/</link>
+      <pubDate>Wed, 16 Aug 2017 11:44:43 +0200</pubDate>
+      
+      <guid>/post/fourth/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>third</title>
+      <link>/post/third/</link>
+      <pubDate>Wed, 16 Aug 2017 11:44:39 +0200</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>second</title>
+      <link>/post/second/</link>
+      <pubDate>Wed, 16 Aug 2017 11:44:35 +0200</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>/post/first/</link>
+      <pubDate>Wed, 16 Aug 2017 11:44:10 +0200</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>/about/</link>
+      <pubDate>Wed, 16 Aug 2017 11:43:04 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Put some content in Markdown format below the toml front-matter (the section marked by +++ before and after it) and then save it.
+Now, let’s add a new post. To do so enter the following:
+$ hugo new post/first.md The new file is located at content/post/first.md. It’s just begging to be spiced up, isn’t it?</description>
+    </item>
+    
+  </channel>
+</rss>

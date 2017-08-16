@@ -1,10 +1,9 @@
 +++
 date = "2017-08-16T11:43:04+02:00"
-draft = true
 title = "about"
+type = "page"
 
 +++
-
 Put some content in Markdown format below the toml front-matter (the section marked by +++ before and after it) and then save it.
 
 Now, let’s add a new post.
