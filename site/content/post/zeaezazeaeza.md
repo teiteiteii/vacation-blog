@@ -9,6 +9,8 @@ title = "zeaezazeaeza"
 
 mmmmmmm
 
+![](/images/thumbs/06.jpg)
+
 ![](/uploads/2017/08/16/8qr9KmY.png)
 
 gteergregrerge
